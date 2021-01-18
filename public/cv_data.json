@@ -1,0 +1,87 @@
+{ "data":[
+    {
+    "title": "2014/10 - 2017/09",
+    "title_type": "big",
+    "body": [
+        "Subotica Tech - College Of Applied Sciences, Subotica",
+        "Bachelor Of Electrical And Computer Engineering"
+        ],
+    "text_bold": true
+    },
+    {
+    "title": "2016/04",
+    "body": [
+        "Special award for the team on Infostud competition"
+        ]
+    },
+    {
+    "title": "2016/05",
+    "body": [
+        "4th. place on Subotica business incubator"
+        ]
+    },
+    {
+    "title": "2016/11",
+    "body": [
+        "2nd place on startup weekend in Novi Sad - Walk and be fit"
+        ]
+    },
+    {
+    "title": "2017",
+    "body": [
+        "Holding the practice of Operating systems - Linux/Fedora -  (serbian/hungarian), in my final year"
+        ]
+    },
+    {
+    "title": "2017/05 - 2018/09",
+    "title_type": "big",
+    "body": [
+        "Junior PHP backend developer - ErdSoft"
+        ],
+    "text_bold": true
+    },
+    {
+    "title": "2016/11",
+    "body": [
+        "2nd place on startup weekend in Novi Sad - Walk and be fit"
+        ]
+    },
+    {
+    "title": "2017/05 - 2017/09",
+    "body": [
+        "Internship program"
+        ]
+    },
+    {
+    "title": "2017/09 - end",
+    "body": [
+        "Developing webpages/webshops"
+        ]
+    },
+    {
+    "title": "Used technologies",
+    "body": [
+        ""
+        ],
+    "list_items": [
+        "PHP",
+        "JS (jQuery)",
+        "HTML + CSS",
+        "MySQL"
+    ]
+    },
+    {
+    "title": "2018/12/01 - 2020/01/04",
+    "title_type":"big",
+    "body": [
+        "Cruise ships F&B crew – RIVER ADVICE AG"
+        ],
+    "text-bold": true,
+    "list_items": [
+        "Restaurant Waiter ( Meal services, Banquet & Gala)",
+        "Bartender"
+    ],
+    "text_bold": true
+    }
+]
+}
